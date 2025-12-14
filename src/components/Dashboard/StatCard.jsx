@@ -173,7 +173,7 @@ const StatCard = ({
       <svg
         xmlns="http://www.w3.org/2000/svg"
         viewBox="0 0 1440 320"
-        className="absolute inset-0 w-full h-full z-0 opacity-30 animate-wave"
+        className="absolute inset-0 w-full h-full z-0 opacity-30"
         preserveAspectRatio="none"
       >
         <path

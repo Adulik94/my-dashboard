@@ -12,20 +12,6 @@
   --color-lexa-800: #7a6fbe;
   --color-lexa-900: #2d3447; /* very dark purple */
   --color-lexa-950: #2a3142; /* almost black-purple */
-
-  @keyframes wave {
-    0%,
-    100% {
-      transform: translateY(0px);
-    }
-    50% {
-      transform: translateY(6px);
-    }
-  }
-
-  .animate-wave {
-    animation: wave 3s ease-in-out infinite;
-  }
 }
 
 button {
